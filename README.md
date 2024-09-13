@@ -11,5 +11,4 @@
 
 # Links
 
-ENG Telegram channel - https://t.me/kryptons_alp <br>
-RU Telegram channel - https://t.me/krypton_alp
+Telegram channel - https://t.me/krypton_alp
