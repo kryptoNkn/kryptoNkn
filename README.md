@@ -1,6 +1,6 @@
 # Hi there 🍉
 
-<h1 align="center">Hi there, I'm <a href="https://t.me/kryptons_alp" target="_blank">Krypton</a> 
+<h1 align="center">Hi there, I'm <a href="https://t.me/krypton_alp" target="_blank">Krypton</a> 
 <h3 align="center">C# Software Engineer from Russia</h3>
 
 # About me
