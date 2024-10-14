@@ -5,7 +5,7 @@
 
 # About me
 
-* I'm Andrew, 16.
+* I'm Andrew, 17.
 * I have been programming in C# since I was 14. I develop games, web and desktop apps, I also sometimes develop exploits, viruses and phishing sites.
 
 # Links
