@@ -1,6 +1,3 @@
-
-*This logo was originally created for my game dev projects under AtennopGames. I keep it here as a part of my journey.*
-
 [![Header](https://github.com/Atennop1/Atennop1/blob/main/assets/logo.png)]()
 ###### Author of the logo idea: https://lospec.com/inkpendude 
  
