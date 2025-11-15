@@ -7,10 +7,11 @@
 ### More about projects:
 - [**BlockHorizon**](https://github.com/kryptoNkn/BlockHorizon-blockchain): a simple prototype of the Solana blockchain (2025)
 - [**UnrealShooter**](https://github.com/Atennop1/UnrealShooter): my first project created with Unreal (2024)
-- [**Bitcoin Prototype**](https://github.com/kryptoNkn/bitcoin-blockchain-prototype): an analogue of the Bitcoin blockchain, which has the basic and necessary functionality
+- [**Bitcoin Prototype**](https://github.com/kryptoNkn/bitcoin-blockchain-prototype): an analogue of the Bitcoin blockchain, which has the basic and necessary functionality (2025)
+
 ### Tech Stack
 - Languages: **Rust**, **TypeScript**, **C#**
-- Blockchain: **Solidity**, **EVM**, **Web3**
+- Blockchain: **Web3**
 - Databases: **PostgreSQL**
 - Backend: **ActixWeb**
 - Tools: **Git**, **VS Code**
