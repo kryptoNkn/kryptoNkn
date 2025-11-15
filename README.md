@@ -11,7 +11,8 @@
 
 ### Tech Stack
 - Languages: **Rust**, **TypeScript**, **C#**
-- Blockchain: **Web3**
+- Blockchain: **Web3**, **Solana**
 - Databases: **PostgreSQL**
-- Backend: **ActixWeb**
+- Backend: **ActixWeb**, **Tokio**, **sqlx**
 - Tools: **Git**, **VS Code**
+- OS: **MacOS**, **Linux** **Windows**
