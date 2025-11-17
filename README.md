@@ -10,8 +10,8 @@
 - [**Bitcoin Prototype**](https://github.com/kryptoNkn/bitcoin-blockchain-prototype): an analogue of the Bitcoin blockchain, which has the basic and necessary functionality (2025)
 
 ### Tech Stack
-- Languages: **Rust**, **TypeScript**, **C#**
-- Blockchain: **Web3**, **Solana**
+- Languages: **Rust**
+- Blockchain: **Web3**
 - Databases: **PostgreSQL**
 - Backend: **ActixWeb**, **Tokio**, **sqlx**
 - Tools: **Git**, **VS Code**, **Vercel**
