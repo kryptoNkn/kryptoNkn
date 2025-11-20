@@ -15,4 +15,4 @@
 - Databases: **PostgreSQL**
 - Backend: **ActixWeb**, **Tokio**, **sqlx**
 - Tools: **Git**, **VS Code**, **Vercel**
-- OS: **MacOS**, **Linux**, **Windows**
+- OS: **MacOS**, **Windows**
