@@ -26,13 +26,13 @@ I'm a **Backend & Blockchain Engineer** passionate about architecting and buildi
 Rust
 
 **Blockchain:**
-Web3, Solana, Bitcoin, Smart Contracts, Cryptography
+Web3, Smart Contracts, Cryptography
 
 **Backend & Databases:**
-Actix-Web, Tokio, PostgreSQL, SQLx, REST APIs, gRPC
+Actix-Web, Tokio, PostgreSQL, SQLx, REST APIs
 
-**Tools & Platforms:**
-Git, Docker, VS Code, Vercel
+**Tools**
+Git, VS Code, Vercel
 
 **OS:**
 MacOS, Windows
