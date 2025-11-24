@@ -8,9 +8,10 @@ I'm a **Backend & Blockchain Engineer** passionate about architecting and buildi
   - Implemented a Proof-of-History (PoH) consensus mechanism and a high-throughput transaction processing system.
   - Tech: Rust, Tokio, SHA-256, gRPC.
 
-- **[Bitcoin Prototype](https://github.com/kryptoNkn/bitcoin-blockchain-prototype)** (2025) – A functional analogue of the Bitcoin blockchain.
+ **[Bitcoin Prototype](https://github.com/kryptoNkn/bitcoin-blockchain-prototype)** (2025) – A functional analogue of the Bitcoin blockchain.
   - Built core components including Proof-of-Work mining, UTXO model, and P2P network communication.
-  - Tech: Rust, Secp256k1, WebSockets, LevelDB.
+  - *Repository will be available soon*
+  - Tech: Rust, Secp256k1, WebSockets.
 
 - **[UnrealShooter](https://github.com/Atennop1/UnrealShooter)** (2024) – A multiplayer shooter developed in Unreal Engine 5.
   - My first dive into game development, focusing on core mechanics, level design, and C++ programming.
