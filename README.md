@@ -6,33 +6,39 @@ I'm a **Backend & Blockchain Engineer** passionate about architecting and buildi
 
 - **[BlockHorizon](https://github.com/kryptoNkn/BlockHorizon-blockchain)** (2025) – A Rust-based prototype of the Solana blockchain.
   - Implemented a Proof-of-History (PoH) consensus mechanism and a high-throughput transaction processing system.
-  - Tech: Rust, Tokio, SHA-256, gRPC.
+  - Developed stream-based data processing and gRPC-based node communication protocol
+  - Tech: Rust, Tokio, SHA-256, gRPC, Protocol Buffers
 
- **[Bitcoin Prototype](https://github.com/kryptoNkn/bitcoin-blockchain-prototype)** (2025) – A functional analogue of the Bitcoin blockchain.
-  - Built core components including Proof-of-Work mining, UTXO model, and P2P network communication.
-  - *Repository will be available soon*
-  - Tech: Rust, Secp256k1, WebSockets.
+- **[Bitcoin Prototype](https://github.com/kryptoNkn/bitcoin-blockchain-prototype)** (2025) – A functional analogue of the Bitcoin blockchain.
+  - Built core components including Proof-of-Work mining, UTXO model, and P2P network communication
+  - Implemented wallet generation with SECP256k1, Merkle tree construction, and blockchain synchronization
+  - Repository will be available for public access in the near future
+  - Tech: Rust, Tokio, SHA-256, gRPC, Protocol Buffers
 
 - **[UnrealShooter](https://github.com/Atennop1/UnrealShooter)** (2024) – A multiplayer shooter developed in Unreal Engine 5.
-  - My first dive into game development, focusing on core mechanics, level design, and C++ programming.
-  - Tech: Unreal Engine 5, C++.
+  - My first dive into game development, focusing on core mechanics, level design, and C++ programming
+  - Implemented character movement systems, weapon mechanics, and basic AI behavior
+  - Tech: Unreal Engine 5, C++, Blueprints
 
 ### Tech Stack
 
-**Languages & Primary**
+**Languages & Primary:**
 Rust
 
-**Blockchain**
-Web3, Solana, Bitcoin
+**Blockchain:**
+Web3, Solana, Bitcoin, Smart Contracts, Cryptography
 
-**Backend & Databases**
-Actix-Web, Tokio, PostgreSQL, SQLx
+**Backend & Databases:**
+Actix-Web, Tokio, PostgreSQL, SQLx, REST APIs, gRPC
 
-**Tools & Platforms**
-Git, Docker, VS Code, Vercel, MacOS
+**Tools & Platforms:**
+Git, Docker, VS Code, Vercel
+
+**OS:**
+MacOS, Windows
 
 ### Connect with Me
 
-- **Telegram Channel:** [@kryptonkn](https://t.me/kryptonkn) – Subscribe for my tech insights and project updates.
+- **Telegram Channel:** [@kryptonkn](https://t.me/kryptonkn) – Subscribe for my tech insights and project updates
 
 I'm always open to discussing new opportunities, interesting projects, and tech collaborations.
