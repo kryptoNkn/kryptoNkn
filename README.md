@@ -31,7 +31,7 @@ Web3, Smart Contracts, Cryptography
 **Backend & Databases:**
 Actix-Web, Tokio, PostgreSQL, SQLx, REST APIs
 
-**Tools**
+**Tools:**
 Git, VS Code, Vercel
 
 **OS:**
