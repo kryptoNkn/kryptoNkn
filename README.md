@@ -12,8 +12,8 @@ I'm a **Backend & Blockchain Engineer** passionate about architecting and buildi
 - **[Bitcoin Prototype](https://github.com/kryptoNkn/bitcoin-blockchain-prototype)** (2025) – A functional analogue of the Bitcoin blockchain.
   - Built core components including Proof-of-Work mining, UTXO model, and P2P network communication
   - Implemented wallet generation with SECP256k1, Merkle tree construction, and blockchain synchronization
-  - Repository will be available for public access in the near future
   - Tech: Rust, Tokio, SHA-256, gRPC, Protocol Buffers
+  - *Repository will be available for public access in the near future*
 
 - **[UnrealShooter](https://github.com/Atennop1/UnrealShooter)** (2024) – A multiplayer shooter developed in Unreal Engine 5.
   - My first dive into game development, focusing on core mechanics, level design, and C++ programming
