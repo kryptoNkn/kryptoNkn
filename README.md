@@ -22,7 +22,7 @@ I'm a **Backend & Blockchain Engineer** passionate about architecting and buildi
 
 ### Tech Stack
 
-**Languages & Primary:**
+**Languages:**
 Rust
 
 **Blockchain:**
