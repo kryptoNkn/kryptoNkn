@@ -1,18 +1,37 @@
 # **About me**
-- I'm **krypton**, a **Backend** and **Blockchain Engineer** passionate about building scalable and efficient systems
-- Currently deepening my knowledge in **distributed systems**, **databases**, and **software architecture**
-- I enjoy creating things from scratch — from backend services to blockchain-based applications
-- I have my own Telegram [**channel**](https://t.me/kryptonkn), subscribe to follow me
 
-### More about projects:
-- [**BlockHorizon**](https://github.com/kryptoNkn/BlockHorizon-blockchain): a simple prototype of the Solana blockchain (2025)
-- [**UnrealShooter**](https://github.com/Atennop1/UnrealShooter): my first project created with Unreal (2024)
-- [**Bitcoin Prototype**](https://github.com/kryptoNkn/bitcoin-blockchain-prototype): an analogue of the Bitcoin blockchain, which has the basic and necessary functionality (2025)
+I'm a **Backend & Blockchain Engineer** passionate about architecting and building **scalable, efficient systems** from the ground up. My current focus is on deepening my expertise in **distributed systems**, **database internals**, and **robust software architecture**.
+
+### Key Projects
+
+- **[BlockHorizon](https://github.com/kryptoNkn/BlockHorizon-blockchain)** (2025) – A Rust-based prototype of the Solana blockchain.
+  - Implemented a Proof-of-History (PoH) consensus mechanism and a high-throughput transaction processing system.
+  - Tech: Rust, Tokio, SHA-256, gRPC.
+
+- **[Bitcoin Prototype](https://github.com/kryptoNkn/bitcoin-blockchain-prototype)** (2025) – A functional analogue of the Bitcoin blockchain.
+  - Built core components including Proof-of-Work mining, UTXO model, and P2P network communication.
+  - Tech: Rust, Secp256k1, WebSockets, LevelDB.
+
+- **[UnrealShooter](https://github.com/Atennop1/UnrealShooter)** (2024) – A multiplayer shooter developed in Unreal Engine 5.
+  - My first dive into game development, focusing on core mechanics, level design, and C++ programming.
+  - Tech: Unreal Engine 5, C++.
 
 ### Tech Stack
-- Languages: **Rust**
-- Blockchain: **Web3**
-- Databases: **PostgreSQL**
-- Backend: **ActixWeb**, **Tokio**, **sqlx**
-- Tools: **Git**, **VS Code**, **Vercel**
-- OS: **MacOS**, **Windows**
+
+**Languages & Primary**
+Rust
+
+**Blockchain**
+Web3, Solana, Bitcoin
+
+**Backend & Databases**
+Actix-Web, Tokio, PostgreSQL, SQLx
+
+**Tools & Platforms**
+Git, Docker, VS Code, Vercel, MacOS
+
+### Connect with Me
+
+- **Telegram Channel:** [@kryptonkn](https://t.me/kryptonkn) – Subscribe for my tech insights and project updates.
+
+I'm always open to discussing new opportunities, interesting projects, and tech collaborations.
