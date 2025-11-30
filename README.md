@@ -23,7 +23,7 @@ I'm a **Backend & Blockchain Engineer** passionate about architecting and buildi
 ### Tech Stack
 
 **Languages:**
-Rust
+Rust, TypeScript
 
 **Blockchain:**
 Web3, Smart Contracts, Cryptography
