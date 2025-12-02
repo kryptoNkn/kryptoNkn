@@ -35,7 +35,7 @@ Actix-Web, Tokio, PostgreSQL, SQLx, REST APIs
 Git, VS Code, Vercel
 
 **OS:**
-MacOS, Windows
+MacOS, Windows, Linux
 
 ### Connect with Me
 
