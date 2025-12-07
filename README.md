@@ -1,6 +1,6 @@
 # **About me**
 
-I'm a **Backend & Blockchain Engineer** passionate about architecting and building **scalable, efficient systems** from the ground up. My current focus is on deepening my expertise in **distributed systems**, **database internals**, and **robust software architecture**.
+I'm a **Backend Engineer** passionate about architecting and building **scalable, efficient systems** from the ground up. My current focus is on deepening my expertise in **distributed systems**, **database internals**, and **robust software architecture**.
 
 ### Key Projects
 
@@ -18,9 +18,6 @@ I'm a **Backend & Blockchain Engineer** passionate about architecting and buildi
 
 **Languages:**
 Rust, TypeScript
-
-**Blockchain:**
-Web3, Smart Contracts, Cryptography
 
 **Backend & Databases:**
 Actix-Web, Tokio, PostgreSQL, SQLx, REST APIs
